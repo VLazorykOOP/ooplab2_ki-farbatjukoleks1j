@@ -20,6 +20,7 @@ int main()
         ch = cin.get();
         
         cin.get();
+	    ///
 
         switch (ch) {
         case '1': task1();   break;
